@@ -5,15 +5,43 @@
 
 
 #     🎄
-       *
-      /|\
-     / | \
-    /  |  \
-   /   |   \
-  /    |    \
- /     |     \
-/      |      \
-
+<!DOCTYPE html>
+<html>
+<head>
+<style>
+  .tree {
+    color: green;
+    font-size: 24px;
+    text-align: center;
+  }
+  .tree:before {
+    content: "\25b2";
+    display: block;
+    position: absolute;
+    top: 40px;
+    left: 50%;
+    width: 0;
+    height: 0;
+    margin-left: -10px;
+    border-left: 30px solid transparent;
+    border-right: 30px solid transparent;
+    border-bottom: 50px solid green;
+  }
+  .ornament {
+    color: red;
+    font-size: 30px;
+  }
+</style>
+</head>
+<body>
+<div class="tree">
+  <div class="ornament">❤️</div>
+  <div class="ornament">❄️</div>
+  <div class="ornament">🌟</div>
+  <div class="ornament">🎁</div>
+</div>
+</body>
+</html>
 
 
 ## 苏小心的小笔记
