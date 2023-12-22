@@ -2,8 +2,8 @@
 苏小心和王阿紫在一起学习python
 
  <img src="https://github.com/YanziWang-dot/SXXWAZ/assets/101793579/a3f29363-51f1-469f-8059-32662afa5da9" width="400" />
+请查看[这个示例](https://yourusername.github.io/yourrepository/)来查看HTML代码的展示。
 
- <img src="https://github.com/YanziWang-dot/SXXWAZ/assets/101793579/c000ea95-6de1-411c-9c66-76c20f53d444" />
 #     🎄
 
 </style>
