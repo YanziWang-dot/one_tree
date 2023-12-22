@@ -2,8 +2,9 @@
 苏小心和王阿紫在一起学习python
 
  <img src="https://github.com/YanziWang-dot/SXXWAZ/assets/101793579/a3f29363-51f1-469f-8059-32662afa5da9" width="400" />
+![image](https://github.com/YanziWang-dot/SXXWAZ/assets/101793579/4fc4ed2c-86dd-4609-b7c8-9ac410c5748e)
 
-<iframe src="https://github.com/YanziWang-dot/SXXWAZ/blob/main/sxx.html"></iframe>
+ <iframe src="https://github.com/YanziWang-dot/SXXWAZ/blob/main/sxx.html"></iframe>
 
 
 #     🎄
