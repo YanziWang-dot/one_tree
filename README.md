@@ -1,10 +1,15 @@
-
 # SXXWAZ
-苏小心和王阿紫在一起学习python
+苏小心和王阿紫在一起学习Python
 
- <img src="https://github.com/YanziWang-dot/SXXWAZ/assets/101793579/a3f29363-51f1-469f-8059-32662afa5da9" width="400">
-##
+<img src="https://github.com/YanziWang-dot/SXXWAZ/assets/101793579/a3f29363-51f1-469f-8059-32662afa5da9" width="400">
+
+<details>
+<summary>点击这里查看示例</summary>
+
 <iframe height="265" style="width: 100%;" scrolling="no" title="Snowfall Animation" src="https://codepen.io/wangyanzi/embed/qBvBXGy?height=265&theme-id=dark&default-tab=result" frameborder="no" loading="lazy" allowtransparency="true" allowfullscreen="true"></iframe>
+
+</details>
+
 
 
 
