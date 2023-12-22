@@ -7,7 +7,7 @@
 请查看[这个示例](https://github.com/YanziWang-dot/SXXWAZ/blob/main/sxx.html/)来查看HTML代码的展示。
 
 <div>
-   <!--<!DOCTYPE html>
+   <!DOCTYPE html>
 <html lang="en" >
  
 <head>
