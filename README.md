@@ -4,8 +4,6 @@
  <img src="https://github.com/YanziWang-dot/SXXWAZ/assets/101793579/a3f29363-51f1-469f-8059-32662afa5da9" width="400" />
 
 
-![image](https://github.com/YanziWang-dot/SXXWAZ/assets/101793579/fcf475d2-b754-4261-ab4b-cac2e7c028e9)
-
 
 
  <iframe src="https://github.com/YanziWang-dot/SXXWAZ/blob/main/sxx.html"></iframe>
